@@ -1,0 +1,6 @@
+C++ PROGRAMMING CHECKLIST
+
+1.  Download compiler G++ for C++ programming
+2.  make a checklist text file for C++
+3.  create a hello world program in C++ with an output statement and a single-line comment
+4.  write a program that inputs and outputs to the console
